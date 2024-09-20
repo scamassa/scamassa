@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**scamassa/scamassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔎 About me
+- full time HEIG-VD student
+- studying software engineering
 
-Here are some ideas to get you started:
+### 🧰 Skills
+- C/C++/C#
+- Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Hobbies
+- video games
+- art
+- music
+- coding
